@@ -1,3 +1,5 @@
+# This project is about "udemy" threejs course
+
 Run:
 
 `npm install` - installing packages
